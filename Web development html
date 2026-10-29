@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>College Course Information</title>
+  </head>
+  <body>
+    <h1>Btech Course Information</h1>
+
+    <p>
+      The Btech Course teaches Computer application and software development.
+    </p>
+
+    <p>
+      <b>Programming</b> and <i>web development</i> important subject.
+    </p>
+
+    <h2>Subject</h2>
+    <ol>
+      <li>Programming in C++</li>
+      <li>Web Technology</li>
+      <li>Management</li>
+    </ol>
+
+    <h2>Course Objective</h2>
+    <ul>
+      <li>Learn programming basics</li>
+      <li>Develop simple website</li>
+    </ul>
+
+    <p>&copy; 2026 BTECH Department</p>
+  </body>
+</html>
